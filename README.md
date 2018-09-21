@@ -1,4 +1,4 @@
-### if.05.01 TINF Operting Systems
+### if.05.01 TINF Operating Systems
 
 # Assignment 1: Research on Operating Systems and Installation
 ## Research on Operating Systems
